@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.user
+# Godot
+.godot/
+*.translation
+export/
+# Blender
+*.blend1
+# OS / IDE
+.vs/
+.idea/
+.vscode/
+Thumbs.db
+# Agent artifacts (screenshots, logs)
+artifacts/
